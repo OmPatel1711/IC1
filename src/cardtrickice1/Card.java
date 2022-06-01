@@ -9,6 +9,8 @@ package cardtrickice1;
  * 
  *
  * @author sivagamasrinivasan
+ * @modifer Om Patel 
+ * @args Student Number : 991653947
  */
 public class Card 
 {
