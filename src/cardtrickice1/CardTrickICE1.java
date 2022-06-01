@@ -39,6 +39,10 @@ public class CardTrickICE1 {
         }
         System.out.println();
         System.out.println();
+        
+//         Card luckyCard = new Card()
+//         luckyCard.setValue(5);
+//         luckyCard.setSuits("hearts");
 
         //step 2:take input 
         int cardValue;
